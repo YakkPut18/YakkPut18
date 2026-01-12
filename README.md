@@ -1,5 +1,3 @@
-## Hello!! I'm Arya Maulana Putra
-
 ![YakkPut18](/IMG/Banner%20Arya.png)
 
 #### I’m a data enthusiast with a strong interest in data analysis, statistics, and machine learning. I enjoy turning raw data into meaningful insights through structured analysis, modeling, and visualization.
